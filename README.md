@@ -1,2 +1,2 @@
 # OldC-Code
-An old bit of C++ code I made
+An old bit of C# code I made
