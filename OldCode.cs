@@ -30,9 +30,6 @@ namespace PracP0
                 {
                     Console.Write(" ");
                 }
-                    {
-                       
-          }
         }
         // Output a newline chatracter at the end of the sentence
         Console.WriteLine();
